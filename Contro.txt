@@ -1,0 +1,1 @@
+Con trỏ là biến , giá trị của nó là địa chỉ 
